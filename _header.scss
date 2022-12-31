@@ -22,6 +22,7 @@ header {
     height: 50vh;
     flex: 0 1 60vw;
     margin: 0;
+    animation: animate 4s ease-in-out;
 }
 
 @keyframes animate {

@@ -22,3 +22,13 @@ header {
     flex: 0 1 60vw;
     margin: 0;
 }
+
+@keyframes animate {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}

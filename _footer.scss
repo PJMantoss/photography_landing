@@ -3,6 +3,12 @@ $instagram: #c32aa3;
 $twitter: #1da1f2;
 $youtube: #ff0000;
 
-.fa-facebook {
-    color: $facebook;
+#contact{
+    .fa {
+        &-facebook {
+            color: $facebook;
+        }
+
+        &
+    }
 }

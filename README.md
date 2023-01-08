@@ -7,4 +7,4 @@ Mobile responsive Landing Page.
 - HTML
 - SASS
 - Fontawesome
-- Free Images from Unsplash.com
+- Free License Images from Unsplash.com

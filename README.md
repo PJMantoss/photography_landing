@@ -7,4 +7,7 @@ Mobile responsive Landing Page.
 - HTML
 - SASS
 - Fontawesome
-- Free License Images from Unsplash.com
+- Free License images from Unsplash.com
+
+##### Date
+January 8th 2023
